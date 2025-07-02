@@ -1,0 +1,14 @@
+chromadb==1.0.15
+deep-translator==1.11.4
+gtts==2.5.4
+langchain-ollama==0.3.3
+langchain_ollama==0.3.3
+langdetect==1.0.9
+pdfplumber==0.11.7
+redis==6.2.0
+sentence-transformers==4.1.0
+wikipedia==1.4.0
+speechrecognition==3.14.3
+pandas>=2.0.0
+initialize==1.1.1
+utils==1.0.2

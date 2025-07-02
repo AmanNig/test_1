@@ -1,0 +1,8 @@
+chromadb==1.0.15
+gTTS==2.5.4
+initialize==1.1.1
+langchain_ollama==0.3.3
+langdetect==1.0.9
+pdfplumber==0.11.7
+speechrecognition==3.14.3
+wikipedia==1.4.0
