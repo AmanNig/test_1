@@ -1,7 +1,9 @@
 import time
 import datetime
 from langdetect import detect                         # For detecting language
-from deep_translator import GoogleTranslator           # For translation
+from deep_translator import GoogleTranslator  
+
+         # For translation
 from utils.intent import classify_intent
 from core.tarot_reader import perform_reading
 from initialize.cache import get_cached, set_cached
